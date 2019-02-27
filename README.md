@@ -1,4 +1,4 @@
-# <a href="http://wsphynx.com/index.html">WSphynxTech</a>
+# <a href="http://wsphynx.com/index.html">WSphynxJS</a>
 
 
 <a href="http://wsphynx.com/index.html">WSphynxJS</a> is a Javascript and HTML library for building powerful interfaces.
