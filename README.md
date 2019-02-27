@@ -31,7 +31,7 @@ It is possible to use WSphynxJS thanks to a `script` tag placed in the `head` pa
 </head>
 ```
 
-You can also directly download the library <a href="http://wsphynx.com/simple(1.0).txt">here</a>. However, we do not recommand to copy the code in your own web page. We often update the source code and you would probably miss new fonctionnalities or bug corrections.
+You can also directly download the library <a href="http://wsphynx.com/simple(1.0).txt">here</a>. However, we do not recommend to copy the code in your own web page. We often update the source code and you would probably miss new functionalities or bug corrections.
 
 <a href="http://wsphynx.com/docs.html">Getting started</a>
 
@@ -52,6 +52,6 @@ This example will render a simple `div` saying Hello. When you clic on it the di
 
 With WSphynxJS, you can declare dynamic events and interact with your HTML page more easily.
 
-# Licence
+# License
 
-<a href="http://wsphynx.com/about.html">WSphynxJS is MIT licenced</a>.
+<a href="http://wsphynx.com/about.html">WSphynxJS is MIT licensed</a>.
